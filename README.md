@@ -1,6 +1,6 @@
 # PharIntell
 
-Pharmaceutical social-media intelligence agents for **PharmXHS** benchmark tasks: **DCV**, **PhV-ADE**, **CCBI**, and **DTS** (symptom / treatment / need). This repo ships the agent runtime, tools, evaluation scripts, and benchmark gold labels. Large post corpora and precomputed embeddings are **not** included—prepare them locally as described below.
+Pharmaceutical social-media intelligence agents for **PharmXHS** benchmark tasks: **DCV**, **PhV-ADE**, **CCBI**, and **DTS** (symptom / treatment / need). This repo ships the agent runtime, tools, evaluation scripts, and benchmark gold labels.
 
 ## Layout
 
