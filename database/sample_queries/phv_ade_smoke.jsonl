@@ -1,0 +1,1 @@
+{"id": "phv_smoke_1", "query": "药品：内舒拿\n帖子：喷了几天内舒拿，鼻子里面特别干，还流了一点血。\n请判断该帖子是否报告了药品相关不良反应，并按任务要求输出 JSON（has_ADE / drug / adverse_events / evidence）。"}

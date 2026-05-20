@@ -1,0 +1,1 @@
+{"id": "dcv_smoke_1", "query": "声明：「内舒拿是抗生素，鼻炎犯了喷几次就能根治。」请根据药品说明书判断该说法是否正确，并按要求输出 JSON（label / evidence / explanation）。"}
