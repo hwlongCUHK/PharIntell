@@ -135,15 +135,6 @@ Results are written to `results/<task>_<model>.json` by default.
 
 Gold labels live under `datasets/phar_<task>/ground_truth.json`.
 
-## Not included in this repo
-
-- Full PharmXHS post corpus (multi‑GB JSONL exports).
-- Precomputed `database/emb_data/*.npy` for benchmark windows.
-- Benchmark query JSONL export and paper-scale orchestration scripts (private research monorepo).
-- Experiment logs under `results/exp_*` or `scores/` from internal runs.
-
-Obtain or build post data locally, then run `build_post_emb.py` before CCBI/DTS benchmarks at scale.
-
 ## License
 
 MIT License with third-party notice for Qwen-Agent (see [LICENSE](LICENSE)).
